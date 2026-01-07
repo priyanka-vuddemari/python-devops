@@ -3,3 +3,6 @@
 .venv
 env/
 venv/
+
+# IPython Notebook checkpoints
+.ipynb_checkpoints
